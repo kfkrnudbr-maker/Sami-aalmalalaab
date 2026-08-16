@@ -1,0 +1,15 @@
+function showMessage() {
+
+  alert("🎮 أهلاً بك في عالم الألعاب!");
+
+}
+
+
+function gameInfo(game) {
+
+  alert(
+    "🔥 قسم " + game +
+    " سيكون متاحًا قريبًا!"
+  );
+
+}
